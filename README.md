@@ -24,7 +24,7 @@ The engine is structured to process intraday market data for commodities (e.g., 
 *   **Feature Engineering Pipeline:** Transforms raw, disjointed data into a single, standardized risk metric.
 
 ##  Visualizing the Logic
-https://github.com/borakurtca/fuzzy-market-risk-evaluator/edit/main/README.md#:~:text=Figure_1.png,requirements.txt
+https://github.com/borakurtca/fuzzy-market-risk-evaluator/edit/main/README.md#:~:text=Figure_1.png
 
 ##  Installation & Usage
 
